@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" autoUpload="Always" serverName="laravel_new">
+  <component name="PublishConfigData" autoUpload="Always" serverName="laravel_new" uploadOnCheckin="8a166249-c88d-4f30-9edc-c93d11db3d01">
     <serverData>
       <paths name="laravel_new">
         <serverdata>
@@ -10,6 +10,7 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="laravel_new" />
     <option name="myAutoUpload" value="ALWAYS" />
   </component>
 </project>
