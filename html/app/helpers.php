@@ -8,4 +8,3 @@ if (! function_exists('mb_ucfirst')) {
         return mb_strtoupper($firstChar, $encoding) . $then;
     }
 }
-//first change
