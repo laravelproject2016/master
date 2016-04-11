@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b1a7f7e0-89a2-4333-bed3-f85e39e30439" name="Default" comment="">
+    <list default="true" id="b1a7f7e0-89a2-4333-bed3-f85e39e30439" name="Default" comment="comment ezafe shod">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/html/app/helpers.php" afterPath="$PROJECT_DIR$/html/app/helpers.php" />
     </list>
     <ignored path="new_laravel.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,11 +24,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="helpers.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="helpers.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/html/app/helpers.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/html/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -48,6 +57,7 @@
         <option value="$PROJECT_DIR$/html/vendor/laravel/framework/src/Illuminate/Routing/Controller.php" />
         <option value="$PROJECT_DIR$/html/vendor/typicms/core/src/Http/Controllers/BaseAdminController.php" />
         <option value="$PROJECT_DIR$/html/app/helpers.php" />
+        <option value="$PROJECT_DIR$/html/index.php" />
       </list>
     </option>
   </component>
@@ -273,7 +283,7 @@
       <option name="presentableId" value="Default" />
       <updated>1460276176555</updated>
       <workItem from="1460276186047" duration="3132000" />
-      <workItem from="1460316147736" duration="3812000" />
+      <workItem from="1460316147736" duration="3901000" />
     </task>
     <task id="LOCAL-00001" summary="new xml">
       <created>1460392535431</created>
@@ -296,11 +306,18 @@
       <option name="project" value="LOCAL" />
       <updated>1460393807714</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="comment ezafe shod">
+      <created>1460393960801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1460393960801</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6944000" />
+    <option name="totallyTimeSpent" value="7033000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="741" extended-state="6" />
@@ -343,7 +360,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new xml" />
     <MESSAGE value="comment pak shod&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="comment pak shod&#10;" />
+    <MESSAGE value="comment ezafe shod" />
+    <option name="LAST_COMMIT_MESSAGE" value="comment ezafe shod" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -507,6 +525,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
