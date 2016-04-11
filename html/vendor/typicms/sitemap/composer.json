@@ -1,0 +1,22 @@
+{
+    "name": "typicms/sitemap",
+    "description": "",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Samuel De Backer",
+            "email": "sdebacker@gmail.com"
+        }
+    ],
+    "require": {
+        "roumen/sitemap": "~2.5.8",
+        "typicms/core": "~2.7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TypiCMS\\Modules\\Sitemap\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
