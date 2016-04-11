@@ -8,4 +8,4 @@ if (! function_exists('mb_ucfirst')) {
         return mb_strtoupper($firstChar, $encoding) . $then;
     }
 }
-//koso sher tahvil nade
+//fuck fuck fuck
